@@ -1,11 +1,10 @@
 Package: myfirstpackage
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Test some functions (Git)
 Version: 0.1.0
-Author: Who wrote it
+Author: Yu Jiang
 Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: testing function sss
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
